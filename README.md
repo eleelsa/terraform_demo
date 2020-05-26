@@ -1,6 +1,8 @@
 # terraform_demo
 for v0.12.24
 
+[terraform_demo.pdf](https://github.com/eleelsa/terraform_demo/files/4680405/terraform_demo.pdf)
+
 ```
 .
 ├── devel
