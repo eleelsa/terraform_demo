@@ -1,0 +1,7 @@
+terraform.tfstate
+terraform.tfstate.backup
+ec2_key
+ec2_key.pub
+terraform.tfvars
+.terraform/
+test/
