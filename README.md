@@ -1,6 +1,7 @@
 # terraform_demo
 for v0.12.24
 
+```
 .
 ├── devel
 │   ├── main.tf
@@ -27,5 +28,4 @@ for v0.12.24
 │           └── output.tf
 └── scripts
     └── ConfigureRemotingForAnsible_add_other.ps1
-
-10 directories, 16 files
+```
