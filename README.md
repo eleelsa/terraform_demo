@@ -12,23 +12,20 @@ for v0.12.24
 │       ├── ConfigureRemotingForAnsible.ps1.tpl
 │       ├── linux_common.sh.tpl
 │       └── rh8.sh.tpl
-├── module
-│   ├── ec2
-│   │   ├── key
-│   │   │   ├── main.tf
-│   │   │   └── output.tf
-│   │   ├── main.tf
-│   │   └── sg
-│   │       ├── main.tf
-│   │       └── output.tf
-│   └── vpc
-│       ├── main.tf
-│       ├── output.tf
-│       ├── route
-│       │   └── main.tf
-│       └── tg
-│           ├── main.tf
-│           └── output.tf
-└── scripts
-    └── ConfigureRemotingForAnsible_add_other.ps1
-```
+└── module
+    ├── ec2
+    │   ├── key
+    │   │   ├── main.tf
+    │   │   └── output.tf
+    │   ├── main.tf
+    │   └── sg
+    │       ├── main.tf
+    │       └── output.tf
+    └── vpc
+        ├── main.tf
+        ├── output.tf
+        ├── route
+        │   └── main.tf
+        └── tg
+            ├── main.tf
+            └── output.tf
